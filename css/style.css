@@ -1,0 +1,39 @@
+.gallery img {
+    max-width: 10px; 
+    border-radius: 10px;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #b3A299; 
+}
+.navbar {
+    background-color: #320000; 
+}
+.jumbotron {
+    background-color: #320000;
+    color: #fff;
+    padding: 100px 25px;
+    text-align: center;
+}
+h1, h2 {
+    font-family: 'Playfair Display', serif;
+    font-weight: bold;
+}
+.card {
+    border: none;
+}
+.card-img-top {
+    border-radius: 15px;
+}
+.btn-primary {
+    background-color: #e59866; 
+    border-color: #e59866; 
+}
+.btn-primary:hover {
+    background-color: #cb844e; 
+    border-color: #cb844e; 
+}
+.bg-dark {
+    background-color: #320000; 
+}
